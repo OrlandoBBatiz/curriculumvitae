@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/OrlandoBBatiz/curriculumvitae/issues"
   },
-  "homepage": "https://github.com/OrlandoBBatiz/curriculumvitae#readme"
+  "homepage": "https://github.com/OrlandoBBatiz/curriculumvitae#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
 }
